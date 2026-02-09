@@ -13,13 +13,13 @@ Solo-authored
 
 Abstract: This study investigates the impact of private equity (PE) ownership on productivity, and finds that PE ownership drives significant productivity improvements in portfolio companies through strategic focus on core technologies.<span class="abstract-rest" hidden> Using high-frequency production data and a decade of transaction history from the US power generation sector, I show that private equity ownership improves productivity by about 2% within the first five years post-acquisition and approximately 5% in the long term. I find evidence that the underlying mechanism in PE value creation-strategic focus in core technologies-contributes to the productivity gains. The findings extend our understanding of PE value creation strategies beyond conventional explanations. The study offers practical insights for corporate strategy and policy. For strategists, the results highlight the vital role of ownership strategy in unlocking an organization's technological potential and driving competitive advantage. For policymakers, understanding the mechanisms of PE value creation could inform regulatory decisions regarding acquisitions and ultimately enhance industry efficiency and competitiveness.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-### [Invisible Firms, Competitive Neglect, and Sustained Profit Generation](https://haiyangzhang.org/research/)
+### [Invisible Firms, Competitive Neglect, and Sustained Profit Generation](/research/)
 
 with J. Barney
 
 Abstract: Profit-generating firms can sustain their performance-even in the absence of barriers to entry and costly to imitate resources and capabilities-if they and the profits they generate are "invisible" to potential competitors.<span class="abstract-rest" hidden> "Invisibility" can lead to "competitive neglect" which can enable a firm to generate "unawareness rents," all without traditional impediments to competition. This paper explores the conditions under which "invisibility" may exist and persist, how firm "invisibility" can evolve over time, and the relationship between invisibility and other impediments to competition.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-### [Regulatory Reform and Market Evolution in the Spectrum Commons](https://haiyangzhang.org/research/)
+### [Regulatory Reform and Market Evolution in the Spectrum Commons](/research/)
 
 with S. Greenstein, R. Fontana, DY Kim
 

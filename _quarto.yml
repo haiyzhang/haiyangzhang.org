@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Haiyang Zhang"
-  site-url: "https://haiyangzhang.org"
+  site-url: "https://haiyangzhang.com"
   navbar:
     left:
       - href: index.qmd

@@ -1,6 +1,6 @@
-# haiyangzhang.org (Quarto)
+# haiyangzhang.com (Quarto)
 
-This repository contains the Quarto version of https://haiyangzhang.org.
+This repository contains the Quarto version of https://haiyangzhang.com.
 
 ## Current structure
 
