@@ -7,3 +7,5 @@ tmp/
 
 /.quarto/
 **/*.quarto_ipynb
+
+DOCUMENTATION_PRIVATE.md

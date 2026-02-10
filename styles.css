@@ -26,3 +26,46 @@ main.content {
 .research-page #quarto-document-content h3 {
   font-size: 1.02rem;
 }
+
+/* Home page: image-left profile layout like reference sites */
+.home-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+  align-items: flex-start;
+}
+
+.home-photo {
+  width: 100%;
+}
+
+.home-headshot {
+  display: block;
+  width: min(100%, 360px);
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 999px;
+}
+
+.home-text {
+  flex: 1;
+}
+
+@media (min-width: 900px) {
+  .home-layout {
+    flex-direction: row;
+    gap: 2.2rem;
+    align-items: flex-start;
+  }
+
+  .home-photo {
+    flex: 0 0 360px;
+  }
+}
+
+/* Keep mobile menu toggle aligned to the right edge */
+@media (max-width: 991.98px) {
+  #quarto-header .navbar-toggler {
+    margin-left: auto;
+  }
+}

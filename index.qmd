@@ -1,6 +1,13 @@
 ---
-title: "Haiyang Zhang"
+title: "About Me"
 ---
+
+<div class="home-layout">
+<div class="home-photo">
+<img src="https://haiyangz.wordpress.com/wp-content/uploads/2024/01/haiyang-zhang-hbs-resize-square.jpg?w=1200" alt="Haiyang Zhang" class="home-headshot" />
+</div>
+
+<div class="home-text">
 
 I am a doctoral candidate in the Strategy unit at Harvard Business School.
 
@@ -12,4 +19,5 @@ I am also passionate about [teaching](/teaching/), and have taught or assisted i
 
 Outside work, I enjoy [flying](/flying/) a Cessna 172. Flying W (N14) is my home airport. Cape May (WWD) is one of my favorite destinations.
 
-![](https://haiyangz.wordpress.com/wp-content/uploads/2024/01/haiyang-zhang-hbs-resize-square.jpg?w=748){fig-align="left" width="336"}
+</div>
+</div>
