@@ -9,7 +9,7 @@ project:
 website:
   search: false
   title: "Haiyang Zhang"
-  site-url: "https://haiyangzhang.com"
+  site-url: "https://haiyangzhang.org"
   navbar:
     left:
       - href: index.qmd
