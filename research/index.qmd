@@ -5,7 +5,7 @@ body-classes: research-page
 
 [Haiyang Zhang Google Scholar Profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7yto0lZfQscyE9yftidDQy_faFqy_jMkp9Vt5Fd1pu_ye8IFZaZPak_8UnL_e7Vle5fzFLiehIs8kz115FiA9sCYGP7w&user=-puXLeYAAAAJ)
 
-## Publications & Working Papers
+## Job Market Paper
 
 ### [Strategic Focus: Evidence from Private Equity Transactions in US Power Generation Sector](https://journals.aom.org/doi/10.5465/AMPROC.2025.183bp)
 
@@ -13,33 +13,37 @@ Solo-authored
 
 Abstract: This study investigates the impact of private equity (PE) ownership on productivity, and finds that PE ownership drives significant productivity improvements in portfolio companies through strategic focus on core technologies.<span class="abstract-rest" hidden> Using high-frequency production data and a decade of transaction history from the US power generation sector, I show that private equity ownership improves productivity by about 2% within the first five years post-acquisition and approximately 5% in the long term. I find evidence that the underlying mechanism in PE value creation-strategic focus in core technologies-contributes to the productivity gains. The findings extend our understanding of PE value creation strategies beyond conventional explanations. The study offers practical insights for corporate strategy and policy. For strategists, the results highlight the vital role of ownership strategy in unlocking an organization's technological potential and driving competitive advantage. For policymakers, understanding the mechanisms of PE value creation could inform regulatory decisions regarding acquisitions and ultimately enhance industry efficiency and competitiveness.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
+## Submitted Papers
+
 ### [Invisible Firms, Competitive Neglect, and Sustained Profit Generation](/research/)
 
 with J. Barney
 
+Under review, Strategic Management Journal
+
 Abstract: Profit-generating firms can sustain their performance-even in the absence of barriers to entry and costly to imitate resources and capabilities-if they and the profits they generate are "invisible" to potential competitors.<span class="abstract-rest" hidden> "Invisibility" can lead to "competitive neglect" which can enable a firm to generate "unawareness rents," all without traditional impediments to competition. This paper explores the conditions under which "invisibility" may exist and persist, how firm "invisibility" can evolve over time, and the relationship between invisibility and other impediments to competition.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-### [Regulatory Reform and Market Evolution in the Spectrum Commons](/research/)
-
-with S. Greenstein, R. Fontana, DY Kim
-
-Abstract: How does a decline in regulatory burdens shape product introduction, firm participation, and competitive dynamics in technology markets?<span class="abstract-rest" hidden> This study examines the Federal Communications Commission's transformation of wireless device regulation between 1997 and 2001. Using administrative records covering nearly 200,000 equipment authorization applications between 1990 and 2015, the study documents market, firm, and product outcomes following a decline in regulatory costs. The study documents four broad patterns. First, regulatory processing times fell sharply, followed by a sustained expansion in product introductions and firm participation, especially in unlicensed spectrum applications. Second, this expansion was driven disproportionately by new entrants, who contributed extensively to product variety and experimentation. Third, despite heightened entry and competition, established firms retained persistent survival advantages. Fourth, the combination of widespread entry and incumbent persistence is difficult to reconcile with strong forms of regulatory capture. Taken together, the findings suggest that well-designed regulatory reforms can simultaneously enable entrant-led experimentation while preserving incumbent persistence. The findings inform contemporary debates on regulating emerging technologies, in which similar privatized certification models are being considered.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
-
-### [Entrepreneurial Projection Strategy](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract)
+### [Entrepreneurial Projection Strategy: Constructing Credibility Through Grounding and Calibration](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract)
 
 with A. Wu, A. Peterson
 
-Abstract: To raise money or mobilize other resources, an entrepreneur provides information about the projected business opportunity to a prospective investor.<span class="abstract-rest" hidden> However, existing literature overlooks that this information is largely forward-looking and unverifiable. To fill this gap, we seek to understand how investors interpret this information, and in turn, what information an entrepreneur should strategically provide. We advance a theory of entrepreneurial projection strategy that addresses how aggressive or conservative an entrepreneur should be in the projections provided to a resource holder. In a study of 460 investors evaluating 286 business plans, we find that entrepreneurs benefit from providing to investors larger five-year revenue projections if they take a number of steps to package that projection as credible. In particular, more aggressive projections are more likely to persuade investors when the entrepreneur also provides information about the potential risks and a plan of action, and when the investor lacks relevant experience and a competitive comparison group.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+Under review, Strategic Management Journal
 
-### [Incorporating Google Trends Data in Predicting Consumer Confidence in Sri Lanka](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3085010)
+Abstract: Revenue projections in entrepreneurship are speculative: entrepreneurs can make up any number, and investors know that the number is made up.<span class="abstract-rest" hidden> We develop a framework of entrepreneurial projection strategy explaining how these projections acquire persuasive force under bidirectional information asymmetry. Grounding makes projections analytically interpretable by disclosing entrepreneur-held assumptions and contingencies. Calibration makes projections plausible relative to investor-held benchmarks. Using 1,493 investor evaluations from 436 investors assessing 254 startup business plans, we find that larger revenue projections are evaluated more favorably when accompanied by cost estimates or risk disclosure. Projections above the evaluation cohort are rewarded, but the benefit reverses as projections stretch further beyond peers. These findings illuminate how entrepreneurs construct credibility from seemingly made-up numbers.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-(Central Bank of Sri Lanka [presentation](https://drive.google.com/file/d/1zC5rrH2GGesAVeavDfSHYoXu0I3f5AiP/view?usp=sharing))
+## Publications
 
-Abstract: The paper examines the benefits of incorporating Google Trends data in predicting consumer confidence in Sri Lanka.<span class="abstract-rest" hidden> Increasing prediction accuracy: The Central Bank of Sri Lanka is able to forecast consumer confidence with greater certainty. Reducing time lag: The Central Bank is able to make real-time prediction of consumer confidence. The first benefit results from the ability of using Google search queries to reflect consumer confidence. Google Inc. classifies search queries into categories via Google Trends service. Incorporating Google Trends data increases the predictive power of the forecast model, compared to AR(1) baseline. The second benefit arises because Google Trends data are available in real time. Economic time series, like consumer confidence, are reported infrequently, often monthly or quarterly. Using Google Trends data reduces the time lag of consumer confidence reporting.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+### Wireless Communications Equipment Markets: Evolution, Classification, Measurement
 
-### [The Impact of China's Official Development Finance on Other Developing Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3173445)
+with N. Greenstein, S. Greenstein, R. Fontana, R. Zhang, O. Olivarez, DY Kim
 
-Abstract: The paper uses a fixed effect model to detect the impact of China's official development finance program.<span class="abstract-rest" hidden> It shows that China's official development finance has a positive effect on bilateral trade. Further, China's official development finance has stronger effect on bilateral trade in democratic recipient countries than in autocratic ones. Likewise, it has stronger effect on bilateral trade in the least developed countries (LDCs) than in middle-income countries (MICs). The results of the paper make the argument for China to direct more official development finance to recipient countries with democratic attributes and at a low level of per capita income, assuming promoting bilateral trade is one of China's policy objectives. The results of the paper have significant policy implications in international development, because assisting the least developed members with democratic attributes is both in China's own interest and is broadly consistent with the view held by traditional donors and lenders.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+Accepted, Telecommunications Policy
+
+### The Impact of Generative AI on the Ability of Entrepreneurial Opportunities to Generate Sustained Competitive Advantages
+
+with R. Wuebker, J. Barney
+
+Conditionally accepted, Strategic Entrepreneurship Journal
 
 ### [Commodity Bonds: A Practical Solution to Crisis Vulnerability in Commodity Dependent Developing Countries](https://openknowledge.worldbank.org/handle/10986/28445)
 
@@ -50,6 +54,36 @@ Included in the book "Financing Sustainable Development : Ideas for Action 2017,
 Received **Honorable Mention** at the Annual Meetings of the Boards of Governors of the World Bank Group (WBG) and the International Monetary Fund (IMF), 2017.
 
 Abstract: Over two-thirds of developing countries' economies are highly dependent on commodities.<span class="abstract-rest" hidden> These Commodity Dependent Developing Countries (CDDCs) face lower long-term growth prospects and higher risks of entering and remaining in international debt crises. Commodity bonds-bond contracts with coupon payments linked to the price of a country's main commodity export-are an efficient way of promoting crisis resilience in CDDCs. The idea of commodity bonds is not new. However, commodity bond markets never achieved enough scale to become a viable option for CDDCs. Here we review past experience, identify barriers to adoption, and propose a novel arrangement to overcome these challenges. In our solution, the World Bank plays an important role in disentangling sovereign risk from commodity risk, making the commodity bond market more attractive to both debt issuing countries and private sector lenders. We illustrate the proposal with an application to Mongolia-a country with over 40 percent of export revenue from copper alone. Finally, we present a practical implementation plan to create a large, liquid commodity bond market that would present a new option for CDDCs to increase economic resilience and enhance long-term growth.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+
+## Working Papers
+
+### [Regulating Product Innovation: Certification Reform and Market Evolution in U.S. Wireless Communications](/research/)
+
+with S. Greenstein, R. Fontana, DY Kim
+
+Abstract: How does a decline in regulatory burdens shape product introduction, firm participation, and competitive dynamics in technology markets?<span class="abstract-rest" hidden> This study examines the Federal Communications Commission's transformation of wireless device regulation between 1997 and 2001. Using administrative records covering nearly 200,000 equipment authorization applications between 1990 and 2015, the study documents market, firm, and product outcomes following a decline in regulatory costs. The study documents four broad patterns. First, regulatory processing times fell sharply, followed by a sustained expansion in product introductions and firm participation, especially in unlicensed spectrum applications. Second, this expansion was driven disproportionately by new entrants, who contributed extensively to product variety and experimentation. Third, despite heightened entry and competition, established firms retained persistent survival advantages. Fourth, the combination of widespread entry and incumbent persistence is difficult to reconcile with strong forms of regulatory capture. Taken together, the findings suggest that well-designed regulatory reforms can simultaneously enable entrant-led experimentation while preserving incumbent persistence. The findings inform contemporary debates on regulating emerging technologies, in which similar privatized certification models are being considered.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+
+### When the Storm Hits: Climate Shocks and Multi-Unit Firm Location Strategy
+
+with J. Alcacer
+
+Data and analysis in progress
+
+### Entrepreneurship and AI: Evidence from GPT-Powered Bing
+
+with S. Counts
+
+Under Microsoft Research internal review
+
+### [Incorporating Google Trends Data Using Bayesian Structural Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3085010)
+
+(Central Bank of Sri Lanka [presentation](https://drive.google.com/file/d/1zC5rrH2GGesAVeavDfSHYoXu0I3f5AiP/view?usp=sharing))
+
+Abstract: The paper examines the benefits of incorporating Google Trends data in predicting consumer confidence in Sri Lanka.<span class="abstract-rest" hidden> Increasing prediction accuracy: The Central Bank of Sri Lanka is able to forecast consumer confidence with greater certainty. Reducing time lag: The Central Bank is able to make real-time prediction of consumer confidence. The first benefit results from the ability of using Google search queries to reflect consumer confidence. Google Inc. classifies search queries into categories via Google Trends service. Incorporating Google Trends data increases the predictive power of the forecast model, compared to AR(1) baseline. The second benefit arises because Google Trends data are available in real time. Economic time series, like consumer confidence, are reported infrequently, often monthly or quarterly. Using Google Trends data reduces the time lag of consumer confidence reporting.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
+
+### [The Impact of China's Official Development Finance on Other Developing Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3173445)
+
+Abstract: The paper uses a fixed effect model to detect the impact of China's official development finance program.<span class="abstract-rest" hidden> It shows that China's official development finance has a positive effect on bilateral trade. Further, China's official development finance has stronger effect on bilateral trade in democratic recipient countries than in autocratic ones. Likewise, it has stronger effect on bilateral trade in the least developed countries (LDCs) than in middle-income countries (MICs). The results of the paper make the argument for China to direct more official development finance to recipient countries with democratic attributes and at a low level of per capita income, assuming promoting bilateral trade is one of China's policy objectives. The results of the paper have significant policy implications in international development, because assisting the least developed members with democratic attributes is both in China's own interest and is broadly consistent with the view held by traditional donors and lenders.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
