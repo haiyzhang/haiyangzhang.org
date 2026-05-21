@@ -15,41 +15,31 @@ Abstract: This study investigates the impact of private equity (PE) ownership on
 
 ## Submitted Papers
 
-### [Invisible Firms, Competitive Neglect, and Sustained Profit Generation](/research/)
+### [Invisible Firms, Competitive Neglect, and Sustained Profit Generation](/research/) (with J. Barney)
 
-with J. Barney
-
-Under review, Strategic Management Journal
+Under review
 
 Abstract: Profit-generating firms can sustain their performance-even in the absence of barriers to entry and costly to imitate resources and capabilities-if they and the profits they generate are "invisible" to potential competitors.<span class="abstract-rest" hidden> "Invisibility" can lead to "competitive neglect" which can enable a firm to generate "unawareness rents," all without traditional impediments to competition. This paper explores the conditions under which "invisibility" may exist and persist, how firm "invisibility" can evolve over time, and the relationship between invisibility and other impediments to competition.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-### [Entrepreneurial Projection Strategy: Constructing Credibility Through Grounding and Calibration](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract)
+### [Entrepreneurial Projection Strategy: Constructing Credibility Through Grounding and Calibration](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13666abstract) (with A. Wu, A. Peterson)
 
-with A. Wu, A. Peterson
-
-Under review, Strategic Management Journal
+Under review
 
 Abstract: Revenue projections in entrepreneurship are speculative: entrepreneurs can make up any number, and investors know that the number is made up.<span class="abstract-rest" hidden> We develop a framework of entrepreneurial projection strategy explaining how these projections acquire persuasive force under bidirectional information asymmetry. Grounding makes projections analytically interpretable by disclosing entrepreneur-held assumptions and contingencies. Calibration makes projections plausible relative to investor-held benchmarks. Using 1,493 investor evaluations from 436 investors assessing 254 startup business plans, we find that larger revenue projections are evaluated more favorably when accompanied by cost estimates or risk disclosure. Projections above the evaluation cohort are rewarded, but the benefit reverses as projections stretch further beyond peers. These findings illuminate how entrepreneurs construct credibility from seemingly made-up numbers.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
 ## Publications
 
-### Wireless Communications Equipment Markets: Evolution, Classification, Measurement
+### Wireless Communications Equipment Markets: Evolution, Classification, Measurement (with N. Greenstein, S. Greenstein, R. Fontana, R. Zhang, O. Olivarez, DY Kim)
 
-with N. Greenstein, S. Greenstein, R. Fontana, R. Zhang, O. Olivarez, DY Kim
+Accepted, *Telecommunications Policy*
 
-Accepted, Telecommunications Policy
+### The Impact of Generative AI on the Ability of Entrepreneurial Opportunities to Generate Sustained Competitive Advantages (with R. Wuebker, J. Barney)
 
-### The Impact of Generative AI on the Ability of Entrepreneurial Opportunities to Generate Sustained Competitive Advantages
+Conditionally accepted, *Strategic Entrepreneurship Journal*
 
-with R. Wuebker, J. Barney
+### [Commodity Bonds: A Practical Solution to Crisis Vulnerability in Commodity Dependent Developing Countries](https://openknowledge.worldbank.org/handle/10986/28445) (with Proenca, Qamar and Simard)
 
-Conditionally accepted, Strategic Entrepreneurship Journal
-
-### [Commodity Bonds: A Practical Solution to Crisis Vulnerability in Commodity Dependent Developing Countries](https://openknowledge.worldbank.org/handle/10986/28445)
-
-(with Proenca, Qamar and Simard)
-
-Included in the book "Financing Sustainable Development : Ideas for Action 2017," published by the World Bank Group.
+Included in the book *Financing Sustainable Development: Ideas for Action 2017*, published by the World Bank Group.
 
 Received **Honorable Mention** at the Annual Meetings of the Boards of Governors of the World Bank Group (WBG) and the International Monetary Fund (IMF), 2017.
 
@@ -57,21 +47,15 @@ Abstract: Over two-thirds of developing countries' economies are highly dependen
 
 ## Working Papers
 
-### [Regulating Product Innovation: Certification Reform and Market Evolution in U.S. Wireless Communications](/research/)
-
-with S. Greenstein, R. Fontana, DY Kim
+### [Regulating Product Innovation: Certification Reform and Market Evolution in U.S. Wireless Communications](/research/) (with S. Greenstein, R. Fontana, DY Kim)
 
 Abstract: How does a decline in regulatory burdens shape product introduction, firm participation, and competitive dynamics in technology markets?<span class="abstract-rest" hidden> This study examines the Federal Communications Commission's transformation of wireless device regulation between 1997 and 2001. Using administrative records covering nearly 200,000 equipment authorization applications between 1990 and 2015, the study documents market, firm, and product outcomes following a decline in regulatory costs. The study documents four broad patterns. First, regulatory processing times fell sharply, followed by a sustained expansion in product introductions and firm participation, especially in unlicensed spectrum applications. Second, this expansion was driven disproportionately by new entrants, who contributed extensively to product variety and experimentation. Third, despite heightened entry and competition, established firms retained persistent survival advantages. Fourth, the combination of widespread entry and incumbent persistence is difficult to reconcile with strong forms of regulatory capture. Taken together, the findings suggest that well-designed regulatory reforms can simultaneously enable entrant-led experimentation while preserving incumbent persistence. The findings inform contemporary debates on regulating emerging technologies, in which similar privatized certification models are being considered.</span><button class="abstract-toggle" type="button" aria-expanded="false"> Read more</button>
 
-### When the Storm Hits: Climate Shocks and Multi-Unit Firm Location Strategy
-
-with J. Alcacer
+### When the Storm Hits: Climate Shocks and Multi-Unit Firm Location Strategy (with J. Alcacer)
 
 Data and analysis in progress
 
-### Entrepreneurship and AI: Evidence from GPT-Powered Bing
-
-with S. Counts
+### Entrepreneurship and AI: Evidence from GPT-Powered Bing (with S. Counts)
 
 Under Microsoft Research internal review
 

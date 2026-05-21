@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;450;500;600;700&display=swap");
+
 /* Keep styling minimal during migration; refine after content parity */
 .navbar-brand {
   font-weight: 600;
@@ -130,4 +132,107 @@ main.content {
 .social-buttons .social-button:hover {
   background: #f6f8fa;
   border-color: #b9c1c8;
+}
+
+
+/* Typography refresh */
+html, body {
+  font-family: "Source Sans 3", "Avenir Next", "Helvetica Neue", Arial, sans-serif;
+  color: #2f343b;
+  font-size: 18px;
+  line-height: 1.62;
+  font-weight: 400;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+main.content {
+  max-width: 900px;
+}
+
+h1, h2, h3, .navbar-brand {
+  font-family: "Source Sans 3", "Avenir Next", "Helvetica Neue", Arial, sans-serif;
+  color: #252a31;
+  letter-spacing: 0;
+}
+
+h1.title {
+  font-size: 2.15rem;
+  font-weight: 650;
+  margin-bottom: 1.35rem;
+}
+
+#quarto-document-content h2 {
+  margin-top: 2.35rem;
+  margin-bottom: 1.05rem;
+  font-size: 1.35rem;
+  font-weight: 650;
+}
+
+#quarto-document-content h3 {
+  margin-top: 1.35rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+#quarto-document-content p {
+  margin-bottom: 0.9rem;
+}
+
+.navbar-title {
+  font-weight: 650;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 500;
+}
+
+.research-page #quarto-document-content h2 {
+  margin-top: 2.6rem;
+  padding-top: 0.15rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.research-page #quarto-document-content h2:first-of-type {
+  border-top: 0;
+  margin-top: 1.4rem;
+}
+
+.research-page #quarto-document-content h3 {
+  font-size: 1.02rem;
+  font-weight: 600;
+}
+
+.research-page #quarto-document-content h3 + p {
+  margin-top: 0.25rem;
+  color: #5c6670;
+}
+
+.abstract-toggle {
+  color: #345f9f;
+  font-weight: 500;
+}
+
+a {
+  color: #2f65b0;
+  text-underline-offset: 0.14em;
+}
+
+@media (max-width: 700px) {
+  html, body {
+    font-size: 17px;
+  }
+
+  h1.title {
+    font-size: 1.85rem;
+  }
+
+  #quarto-document-content h2 {
+    font-size: 1.24rem;
+  }
 }
