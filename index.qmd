@@ -18,7 +18,7 @@ Outside work, I enjoy [flying](/flying/) a Cessna 172. Flying W (N14) is my home
 </div>
 </div>
 
-<p class="cv-note">A current copy of my CV is available <a href="/cv/">here</a>.</p>
+<p class="cv-note">I will be on the 2026-2027 academic job market. My current <a href="/cv/">curriculum vitae</a> is available here.</p>
 
 <div class="social-buttons" aria-label="External profiles">
   <a class="social-button" href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7yto0lZfQscyE9yftidDQy_faFqy_jMkp9Vt5Fd1pu_ye8IFZaZPak_8UnL_e7Vle5fzFLiehIs8kz115FiA9sCYGP7w&user=-puXLeYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
