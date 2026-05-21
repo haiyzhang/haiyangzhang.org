@@ -9,11 +9,11 @@ title: "About Me"
 
 <div class="home-text">
 
-I am a doctoral candidate in the Strategy unit at Harvard Business School.
+Welcome to my website! I am a fourth-year doctoral candidate in the Strategy unit at Harvard Business School.
 
 I am interested in corporate and competitive strategy. My current research examines entry and competition in infrastructure sectors, especially settings where ownership and regulation shape how firms compete. My work is informed and inspired by my experience as a McKinsey consultant and as a market designer in the energy market.
 
-Outside work, I enjoy [flying](/flying/) a Cessna 172. Flying W (N14) is my home airport. Cape May (WWD) is one of my favorite destinations.
+Outside work, I enjoy [flying](/flying/) a Cessna 172. Cape May (WWD) is one of my favorite destinations.
 
 </div>
 </div>
