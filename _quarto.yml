@@ -5,6 +5,7 @@ project:
     - "*.qmd"
     - "**/*.qmd"
     - "!tmp/**"
+    - "!cv/**"
 
 website:
   search: false
