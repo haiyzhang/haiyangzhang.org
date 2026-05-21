@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-You can find a copy of my CV [here](#).
+<iframe class="cv-frame" src="/assets/haiyang_cv.pdf" title="Haiyang Zhang CV"></iframe>

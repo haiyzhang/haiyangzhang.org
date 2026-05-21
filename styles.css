@@ -236,3 +236,12 @@ a {
     font-size: 1.24rem;
   }
 }
+
+
+.cv-frame {
+  width: 100%;
+  min-height: 78vh;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  background: #ffffff;
+}
