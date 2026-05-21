@@ -9,7 +9,7 @@ title: "About Me"
 
 <div class="home-text">
 
-Welcome to my website! I am a fourth-year doctoral candidate in the Strategy unit at Harvard Business School. I will be on the 2026-2027 academic job market.
+Welcome! I am a fourth-year doctoral candidate in the Strategy unit at Harvard Business School. I will be on the 2026-2027 academic job market.
 
 I am interested in **corporate** and **competitive** strategy. My current research examines entry and competition in infrastructure sectors, especially settings where ownership and regulation shape how firms compete. My work is informed and inspired by my experience as a McKinsey consultant and as a market designer in the energy market.
 
