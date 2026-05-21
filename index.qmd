@@ -11,14 +11,14 @@ title: "About Me"
 
 Welcome to my website! I am a fourth-year doctoral candidate in the Strategy unit at Harvard Business School.
 
-I am interested in corporate and competitive strategy. My current research examines entry and competition in infrastructure sectors, especially settings where ownership and regulation shape how firms compete. My work is informed and inspired by my experience as a McKinsey consultant and as a market designer in the energy market.
+I am interested in **corporate** and **competitive** strategy. My current research examines entry and competition in infrastructure sectors, especially settings where ownership and regulation shape how firms compete. My work is informed and inspired by my experience as a McKinsey consultant and as a market designer in the energy market.
 
 Outside work, I enjoy [flying](/flying/) a Cessna 172. Cape May (WWD) is one of my favorite destinations.
 
 </div>
 </div>
 
-<p class="cv-note">I will be on the 2026-2027 academic job market. My current <a href="/cv/">curriculum vitae</a> is available here.</p>
+<p class="cv-note"><strong>I will be on the 2026-2027 academic job market.</strong> My current <a href="/cv/">curriculum vitae</a> is available here.</p>
 
 <div class="social-buttons" aria-label="External profiles">
   <a class="social-button" href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7yto0lZfQscyE9yftidDQy_faFqy_jMkp9Vt5Fd1pu_ye8IFZaZPak_8UnL_e7Vle5fzFLiehIs8kz115FiA9sCYGP7w&user=-puXLeYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
