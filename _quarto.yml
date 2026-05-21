@@ -18,8 +18,6 @@ website:
         text: Research
       - href: teaching/index.qmd
         text: Teaching
-      - href: cv/index.qmd
-        text: CV
       - href: flying/index.qmd
         text: Flying
   page-footer:
